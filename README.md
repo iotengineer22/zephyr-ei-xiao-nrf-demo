@@ -56,10 +56,10 @@ To get this running on your own board, follow these steps:
 
     ```bash
     # Build the application
-    west build -b xiao_nrf52840_sense
+    west build -p -b xiao_ble/nrf52840/sense
 
     # Flash it to the device
-    west flash
+    west flash -r uf2
     ```
     *   Replace `xiao_nrf52840_sense` with the appropriate board name if you are using a different one (e.g., for the nRF54L15).
 
