@@ -72,3 +72,13 @@ To get this running on your own board, follow these steps:
     *For the XIAO nRF54L15 Sense: Please use the nRF Connect for VS Code extension to build the project.
 
     (This has been verified with version 3.0.1).
+
+## Refernce
+
+This repository references the following repository:
+
+https://github.com/zephyrproject-rtos/zephyr/tree/main/samples/drivers/audio/dmic
+
+https://wiki.seeedstudio.com/XIAO-BLE-PDM-EI/
+
+https://docs.edgeimpulse.com/projects/expert-network/ai-patient-assistance-arduino-nano-33
