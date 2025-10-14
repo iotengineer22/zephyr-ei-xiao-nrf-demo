@@ -69,4 +69,6 @@ To get this running on your own board, follow these steps:
     # Flash it to the device
     west flash -r uf2
     ```
-    *For the XIAO nRF54L15 Sense: Please use the nRF Connect for VS Code extension to build the project. (This has been verified with version 3.0.1).
+    *For the XIAO nRF54L15 Sense: Please use the nRF Connect for VS Code extension to build the project.
+
+    (This has been verified with version 3.0.1).
