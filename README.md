@@ -11,8 +11,16 @@ The projects are built with the Zephyr RTOS and leverage machine learning models
 
 ## Structure
     .
-    ├── raw_data            # Training data(IMU_Data, Sound_Data_Link)   
-    ├── src                 # Program and board files (nrf54l15,nrf52840)   
+    ├── raw_data                                        # Training data(IMU_Data, Sound_Data_Link)   
+    ├── src                                             # Program and board files 
+    │    ├── nrf52840                                   # XIAO nRF52840 Sense
+    │    │    ├── imu_dataforwarder_nrf52_12_5hz        # Collecting accel sensor data 12.5Hz        
+    │    │    ├── imu_real_inference                    # Gesture Recognition 
+    │    │    ├── dmic_inference                        # Voice Recognition
+    │    ├── nrf54L15                                   # XIAO nRF54L15 Sense
+    │    │    ├── imu_dataforwarder                     # Collecting accel sensor data 104Hz
+    │    │    ├── imu_real_inference                    # Gesture Recognition
+    │    │    ├── dmic_inference                        # Voice Recognition
     ├── LICENSE
     └── README.md
 
