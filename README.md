@@ -82,3 +82,13 @@ https://github.com/zephyrproject-rtos/zephyr/tree/main/samples/drivers/audio/dmi
 https://wiki.seeedstudio.com/XIAO-BLE-PDM-EI/
 
 https://docs.edgeimpulse.com/projects/expert-network/ai-patient-assistance-arduino-nano-33
+
+https://github.com/Seeed-Studio/platform-seeedboards/tree/main/examples/zephyr-imu
+
+https://docs.edgeimpulse.com/tools/clis/edge-impulse-cli/data-forwarder
+
+https://github.com/nrfconnect/sdk-nrf/tree/main/samples/edge_impulse/data_forwarder
+
+https://docs.edgeimpulse.com/tools/clis/edge-impulse-cli/installation
+
+https://docs.edgeimpulse.com/datasets/time-series/continuous-motion-recognition
