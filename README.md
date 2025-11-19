@@ -2,7 +2,7 @@
 This repository present Zephyr Demo with Edge Impulse and XIAO nRF54l15/nRF52840 Sense
 
 ## Introduction
-This repository showcases examples of gesture and voice recognition using the onboard sensors of the **Seeed Studio XIAO nRF52840 Sense** and **XIAO nRF54L15 Sense**.
+This repository showcases examples of gesture and voice recognition using the onboard sensors of the ~~**Seeed Studio XIAO nRF52840 Sense**~~ and **XIAO nRF54L15 Sense**.
 
 The projects are built with the Zephyr RTOS and leverage machine learning models deployed from Edge Impulse.
 
